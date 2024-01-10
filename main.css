@@ -1,0 +1,19 @@
+body{
+  background-color: aqua;
+}
+#RESUME {
+  background-color:blanchedalmond;
+}
+#TheVeinGuys {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border:  5px solid red;
+}
+#STW {
+  font-family: fantasy;
+  border-style:dotted;
+  border-color:deeppink;
+  border-width: 3px;
+}
+h2 {
+  color:blueviolet;
+}
